@@ -1,0 +1,29 @@
+.textcenter{
+    text-align: center;
+}
+.videogamesfont{
+font-family: 'Permanent Marker', cursive;
+}
+img{
+    width: 200px;
+}
+body{
+    background-image: url("http://veteransbreakfastclub.com/wp-content/uploads/2014/10/Abstract-red-background-backgrounds-for-powerpoint-and-black-funny-jpg.jpg");
+}
+.imagesspace{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.paragraph{
+font-family: 'Merienda', cursive;
+}
+.bestfoodfont{
+    font-family: 'Permanent Marker', cursive;
+}
+.moviefont{
+    font-family: 'Satisfy', cursive;
+}
+.wondersfont{
+    font-family: 'Rock Salt', cursive;
+}
